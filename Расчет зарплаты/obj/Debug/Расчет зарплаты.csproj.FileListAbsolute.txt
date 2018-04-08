@@ -1,0 +1,18 @@
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.exe.config
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.exe
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.pdb
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.csprojResolveAssemblyReference.cache
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет_зарплаты.Form1.resources
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет_зарплаты.Properties.Resources.resources
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.csproj.GenerateResource.Cache
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.exe
+c:\users\phis7065\documents\visual studio 2013\Projects\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.pdb
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.exe.config
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.exe
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.pdb
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.exe
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\bin\Debug\Расчет зарплаты.pdb
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет_зарплаты.Form1.resources
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет_зарплаты.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Расчет зарплаты\Расчет зарплаты\obj\Debug\Расчет зарплаты.csproj.GenerateResource.Cache
